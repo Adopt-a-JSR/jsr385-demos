@@ -15,10 +15,10 @@ You can see the finished and WIP (for the ones who might be interested in taking
 ### Finished demos
 - [Spring Boot demo](spring-boot)
 - [Kotlin Repl demo](repl)
+- [Vaadin demo](vaadin)
 
 ### WIP
 - [Spring Boot demo](https://github.com/utrechtjug/adopt-jsr-385-day/tree/master/spring-boot-demo)
 - [Some work](https://github.com/mthoolen/indriya/commits/master) for [#128](https://github.com/unitsofmeasurement/indriya/issues/128)
-- Vaadin demo (to be uploaded)
 
 
