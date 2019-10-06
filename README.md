@@ -22,3 +22,5 @@ You can see the finished and WIP (for the ones who might be interested in taking
 - [Some work](https://github.com/mthoolen/indriya/commits/master) for [#128](https://github.com/unitsofmeasurement/indriya/issues/128)
 
 
+### Interview with Werner after the event
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kEMZmoMXYbY/0.jpg)](https://www.youtube.com/watch?v=kEMZmoMXYbY)
